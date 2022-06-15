@@ -1,24 +1,15 @@
-# example
+# vue-fusiongrid
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run the project
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+npm run start
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Snapshot of the component
+<img width="577" alt="Screenshot 2022-06-15 at 2 40 21 PM" src="https://user-images.githubusercontent.com/17782121/173790172-85c1f2cd-8bff-4eaf-87ff-e430c25bd5c7.png">
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
